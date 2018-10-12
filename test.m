@@ -3,9 +3,9 @@
 % Last modified: June 2018
 %--------------------------------------------------------------------------
 % Written by:
+% Federico Sanna
 % Aymeric Peirs
 % Quentin Renault
-% Federico Sanna
 % Mitchell Teal
 % Diana Toderita
 % Aaron Wright
