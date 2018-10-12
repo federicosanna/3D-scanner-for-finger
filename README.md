@@ -1,9 +1,9 @@
 # 3D Scanner for Monitoring Hand Osteoarthritis
 
-Author names:   
+Author names:
+Federico Sanna     
 Aymeric Peirs   
 Quentin Renault   
-Federico Sanna   
 Mitchell Teal   
 Diana Toderita   
 Aaron Wright   
@@ -15,14 +15,13 @@ Osteoarthritis (OA) is the most common form of joint disease, affecting at least
 We would like to thank Dr. Angela Kedgley for her supervision and support throughout the year. We would also like to thank Mr. Daniel Nardini, Mr. Paschal Egan and Mr. Niraj Kanabar for giving us guidance in designing and building the prototype.
 
 ## Hardware
-The glove is made of 4 [short flex sensors](https://www.robotshop.com/uk/1-unidirectional-flexible-bend-sensor.html) (1 inch) and 6 [longer ones](http://www.hobbytronics.co.uk/flex-sensor-2-2) (2.2 inches), 1 [accelerometer](http://www.hobbytronics.co.uk/lsm9ds1-9dof), and 2 [strain gauges](https://www.amazon.co.uk/Hobby-Components-Ltd-BF350-3AA-Strain/dp/B07BF7X4NM/ref=sr_1_4?s=electronics&ie=UTF8&qid=1530872825&sr=1-4&keywords=strain+gauge).
+The mechanical design of the final prototype consists of:
 
-All the sensor have been embedded in a matrix of [silicon](http://www.silex.co.uk/shop/food-grade-silicone-casting-liquid-2-part/c-24/p-13828) to make the structure of the glove.
+- A ring supporting eight cameras
+- A hand/wrist support
+- Support components: baseboard,  back plate,  two support blocks attached to the ring
+- A poster board
+- Eight camera attachment pieces
+- An LED lighting strip  
 
-To connect all the component an Arduino ___ has been used.
-
-Moreover also the following components have been used:
-- green LED;
-- button;
-- 10 x 47kΩ resistors;
-- 1 x 10kΩ resistor;
+![device image](https://user-images.githubusercontent.com/30337324/46888339-1c2daf00-ce58-11e8-977d-ef0945778a79.jpg)
